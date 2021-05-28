@@ -1,0 +1,19 @@
+{
+    "name": "dsa-stack-and-queue",
+    "version": "1.0.0",
+    "description": "DSA stack &amp; queue",
+    "main": "stackimplementation.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neshdev999/DSA-Stack-and-Queue.git"
+    },
+    "author": "Nesh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/neshdev999/DSA-Stack-and-Queue/issues"
+    },
+    "homepage": "https://github.com/neshdev999/DSA-Stack-and-Queue#readme"
+}
